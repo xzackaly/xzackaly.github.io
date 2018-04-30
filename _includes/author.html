@@ -1,0 +1,31 @@
+<div class="author">
+    <div class="author-body">
+          <div class="left">
+            <a title="Home" href="{{site.baseurl}}/"> 
+                <div class="author-img" style="background-image: url({{site.baseurl}}/images/{{site.author.image}});"></div>
+            </a>
+               <h4>XZackaly</h4>
+           </div>
+           <div class="right">
+                    <h4>{{site.author.name}}</h4>
+                    <p class="author-abt">{{site.author.about}}</p>
+                    <div class="social">
+                    {% if site.author.twitter %}
+                    <a target="_blank" href="https://twitter.com/{{site.author.twitter}}">
+                    <p style="color:#00aced"><i class="fa fa-twitter-square" aria-hidden="true"></i><span> Follow on Twitter</span></p>
+                    </a>
+                    {% endif %}
+                    {% if site.author.facebook %}
+                    <a target="_blank" href="https://facebook.com/{{site.author.facebook}}">
+                    <p style="color:#3b5998"><i class="fa fa-facebook-official" aria-hidden="true"></i><span> Follow on Facebook</span></p>
+                    </a>
+                    {% endif %}
+                    {% if site.author.email %}
+                    <a href="mailto:{{site.author.email}}">
+                    <p style="color:#555"><i class="fa fa-envelope" aria-hidden="true"></i><span> Send me an Email</span></p>
+                    </a>
+                    {% endif %}
+                    </div>           
+            </div>
+    </div>
+</div>

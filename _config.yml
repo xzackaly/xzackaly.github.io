@@ -1,0 +1,62 @@
+# Welcome!
+#
+# This config file is meant for settings that affect the whole blog 
+# 
+# 
+# 
+
+# Site settings
+title: XZackaly
+description: > 
+baseurl: "" 
+url: "xzackaly.github.io"
+permalink: /:year/:month/:day/:title.html
+full-url: "http://xzackaly.github.io"  
+
+#  
+paginate: 5
+paginate_path: /page:num/
+
+destination: ghio
+
+exclude: 
+    - .git
+    - .gitignore
+
+# CSS
+sass:
+  style: compressed
+
+# Comments  
+disqus-shortname: bytesizedpieces
+
+# Tracker
+analytics:  
+
+# Site version
+version: 0.9
+
+
+color-1: '#555555'
+color-2: '#000000'
+
+
+change-date-bg: yes
+ 
+
+# Build settings
+markdown: kramdown
+
+include: [_pages]   
+
+author:
+  name: Byte-Sized Pieces
+  image: xzackaly.jpg  
+  about: Straightforward, yet considerate.
+  twitter:     
+  facebook:     
+  email:   mrszackalee@gmail.com
+  
+plugins: 
+  - jekyll-seo-tag
+  - jekyll-paginate
