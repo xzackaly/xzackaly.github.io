@@ -18,7 +18,9 @@ paginate: 5
 paginate_path: /page:num/
 
 destination: ghio
+ 
 
+ 
 exclude: 
     - .git
     - .gitignore
@@ -28,7 +30,7 @@ sass:
   style: compressed
 
 # Comments  
-disqus-shortname: bytesizedpieces
+disqus-shortname:  
 
 # Tracker
 analytics:  
@@ -53,9 +55,9 @@ author:
   name: Byte-Sized Pieces
   image: xzackaly.jpg  
   about: Straightforward, yet considerate.
-  twitter:     
+  twitter:     qqpuffs 
   facebook:     
-  email:   mrszackalee@gmail.com
+  email:   
   
 plugins: 
   - jekyll-seo-tag

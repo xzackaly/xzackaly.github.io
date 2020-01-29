@@ -2,7 +2,7 @@
 layout: post
 cardtitle: "The Plan&#039;s The Thing"
 title: "The Plan&#039;s The Thing"
-description: Software implementations should place the highest value on the non-technical beginning stages, the VISION and the PLAN.   
+description: Software implementations should place the highest value on the VISION and the PLAN.   
 date:   2018-03-03 11:00:00 +0500
 categories: jtol
 author: XZackaly
@@ -24,8 +24,9 @@ author: XZackaly
  </div>
 <br>
 <br>
-I don’t know the names of these two young men, but they could very well be <span class="ttstyle"><span  class="tooltip" data-tip="(Melpomene – the Greek Muse of tragedy)">Mel</span></span> and <span class="ttstyle"><span  class="tooltip" data-tip="(Thalia -  the Greek Muse of comedy)">Thal</span></span>, the Greek “performing arts” masks.   Arts 
-&amp; Sciences has traditionally been grouped together as a curricula of study. The software field of study is often called “computer science”, but good software requires artful design.   That led me to thinking about my favorite designer – Candice Olson.  Wait, she is not a <big><em>software</em></big> designer, she is an <big><em>interior</em></big> designer. And watching one of her projects is a master class in creating good software implementations. 
+These two young men could very well be named <span class="ttstyle"><span  class="tooltip" data-tip="(Melpomene – the Greek Muse of tragedy)">Mel</span></span> and <span class="ttstyle"><span  class="tooltip" data-tip="(Thalia -  the Greek Muse of comedy)">T-Hal</span></span>, referring to the Greek “performing arts” masks.   Arts 
+&amp; Sciences is often a grouped curricula of study. Makes sense.  Good software implementations require artful design.   
+<br> That connection led me to thinking about my favorite designer – Candice Olson.  She's an <big><em>interior</em></big> designer, not a <big><em>software</em></big> designer. But watching Candice plan and direct a project is a master class in creating successful implementations. 
 
 So let the class begin:<br><br>
 
@@ -187,7 +188,7 @@ So let the class begin:<br><br>
     <br><br> <!--Table 7  begins here -->
     <table class="local01" >
         <tr>
-               <th style="padding: 0px 45px">LESSON VII: Pre-Client WalkThrough</th>
+               <th style="padding: 0px 45px">LESSON VII: Tech WalkThrough</th>
     </tr> <tr >
              <td colspan="2"> Verify Client Requests Were Met</td> </tr>  
               <tr>
@@ -228,9 +229,9 @@ So let the class begin:<br><br>
 </div>
 
 <br><br>
-So, Candice doesn’t drill a hole, or wield a paintbrush, or hammer a nail.  Yet her vision is the invaluable piece to the project.<br><br>
-Granularly specific I/T tech job requirements risk missing the hire of their own Candice.  For example, if you are looking to hire &quot;LESS&quot; or &quot;SASS&quot;, consider the person whose experience is pure CSS, because a person who is good at and enjoys writing CSS could probably make LESS or SASS sing.<br><br>
-If you are looking to create the next software masterpiece, shuck the granularly specific skills list and recruit vision.  
+So, Candice doesn’t use a drill, a screwdriver, or a hammer.  Yet her vision is the invaluable background impetus of the project.<br><br>
+ 
+Planning is the <big>MOST</big> important first step of any implementation.
 
 <style>
      table.local01 {

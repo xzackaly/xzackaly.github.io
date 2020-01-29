@@ -14,11 +14,11 @@ author: XZackaly
  </p></div>
 <br>
 <br>
-Ah, I remember my front-end coding lightbulb moment.  It was just like William Holden’s lightbulb moment in <span class="ttstyle"><span  class="tooltip" data-tip="Billy Wilder's 1953 Oscar winner">Stalag 17</span></span>. <br><br>
-The puzzle of the machinations of HTML, CSS, and JavaScript revealed itself when I saw examples of HTML&#47;CSS&#47;JavaScript working together.<br><br> 
-I tried out my newly acquired understanding by writing different ways to accomplish the same simple task of underlining some text.   
+My front-end coding lightbulb moment felt just like William Holden’s lightbulb moment in <span class="ttstyle"><span  class="tooltip" data-tip="Billy Wilder's 1953 Oscar winner">Stalag 17</span></span>.  Och....so! <br><br> 
+The puzzle of the machinations of HTML, CSS, and JavaScript were revealed when I saw examples of HTML&#47;CSS&#47;JavaScript working together.<br><br> 
+I tried out my newly acquired understanding by writing different ways to accomplish the same simple task.   
 <br>
-Here are four complete examples of front-end code that underlines text.  To execute them, use your favorite editor (Notepad, Sublime, Visual Studio Code, et.al.) and  copy/paste/save as a &quot;.html&quot; file.<br><br>
+Here are four complete examples of front-end code that underlines text.  Paste the code into your favorite editor (Notepad, Sublime, Visual Studio Code, et.al.) and save as a &quot;.html&quot; file to execute.<br><br>
 Ok, here we go:<br><br>
 <h3>Underline Example 1.  This example uses the <code class="local02">&lt;u&gt;</code> tag.</h3>
 {% highlight html %}
@@ -124,8 +124,8 @@ Ok, here we go:<br><br>
 </html>
 {% endhighlight %}
 <br>
-A few side notes about the above examples.  In some places, instead of using the keyboard symbol, I used an alternative code representation <code class="local02">Example: “!” is &#33</code>.  Alternative codes are widely used, and are very useful when you want to be certain that a symbol won’t be interpreted by the browser as program code.<br><br>
-<span style="font-weight: bold;font-size: large;">Class</span> and <span style="font-weight: bold;font-size: large;">ID</span> appear inside some of the html tags. <code class="local02" >“class=” and “id=”</code>   Class and ID are known as selectors. What is important about class and id is that they allow you to apply some kind of enhancement to selected pieces of code.  In our case, the enhancement of choice was <span style="text-decoration: underline;">underlining</span>.   Enhancements do all kinds of things: add borders and backgrounds; make things change color and size; make things jiggle and shake; insert graphs and charts.  The depth and breadth of the enhancement you want to place into your HTML is vast.  It is what makes web pages the dynamic displays that they are today.<br><br>
+In some of the above examples I used alternative code representation instead of using the keyboard symbol. <code class="local02">Example: “!” is &#33</code>.  Alternative codes are useful when you want to be certain that a symbol won’t be interpreted as program code by the browser.<br><br>
+<span style="font-weight: bold;font-size: large;">Class</span> and <span style="font-weight: bold;font-size: large;">ID</span> appear inside some of the html tags. <code class="local02" >“class=” and “id=”</code>   Class and ID are known as selectors. What is important about class and id is that they permit enhancements to web code.  In our case, the enhancement of choice was <span style="text-decoration: underline;">underlining</span>.   Enhancements do all kinds of things: add backgrounds; make things change color and size and jiggle and shake; insert graphs and charts.  The depth and breadth of the enhancement you want to place into your HTML is vast.  It is what makes web pages the dynamic displays that they are today.<br><br>
 Finally, to show code construction, below is a compilation of all the above examples into one. 
 <h3>Underline Compilation</h3>
 {% highlight html %}
